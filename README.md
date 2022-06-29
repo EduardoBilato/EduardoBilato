@@ -3,7 +3,7 @@
 I'm a Full Stack developer engineer from Brazil.
 Currently focused on web applications development with ReactJS.
 
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6"></a></p>
+<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://github.com/EduardoBilato/assets/screen.gif"></a></p>
 
 
 <div align="center" valign="top"><br>
