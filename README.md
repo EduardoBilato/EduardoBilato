@@ -2,7 +2,10 @@
 
 I'm a Full Stack developer engineer from Brazil.
 Currently focused on web applications development with ReactJS.
-
+<p>
+  
+Click to see my <a href="https://resume.io/r/eDzw9cf7O">resume</a>
+  
 <img align="right" alt="GIF" src="https://github.com/EduardoBilato/blob/main/screen.gif" width="500" height="320" />
 
 <div align="center" valign="top"><br>
