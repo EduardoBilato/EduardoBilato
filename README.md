@@ -8,8 +8,8 @@
    at the intersection of great UX and solid engineering.
                                                                                                                                           
   [![Resume](https://img.shields.io/badge/Resume-View%20CV-4A90D9?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://resume.io/r/eDzw9cf7O)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardobilato
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardobilato
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardobilato)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardobilato)
   [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardobilato@gmail.com)
                                                                                                                                           
   </div>                                                    
