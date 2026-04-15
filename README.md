@@ -23,7 +23,7 @@
   - Full Stack Engineer with a strong backend foundation
   - Specialized in **React**, **TypeScript**, and modern web ecosystems
   - Passionate about building intuitive, performant user interfaces
-  - Always learning — currently deepening expertise in frontend architecture and cloud infrastructure
+  - Always learning — currently deepening expertise in frontend architecture, cloud infrastructure and AI
 
   ### Tech Stack
 
