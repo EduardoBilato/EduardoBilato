@@ -20,28 +20,25 @@
    
   ### About Me                                                                                                                            
                                                             
-  - Full Stack Engineer with a strong frontend foundation                                                                                 
+  - Full Stack Engineer with a strong backend foundation                          
   - Specialized in **React**, **TypeScript**, and modern web ecosystems
   - Passionate about building intuitive, performant user interfaces                                                                       
-  - Always learning — currently deepening expertise in backend architecture and cloud infrastructure
+  - Always learning — currently deepening expertise in frontend architecture and cloud infrastructure
                                                                                                                                           
   ### Tech Stack                                            
                                                                                                                                           
-  <div>                                                     
-    <img alt="React" height="30" width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">                                         
-    <img alt="TypeScript" height="30" width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">                                  
-    <img alt="JavaScript" height="30" width="40"            
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">                                  
+  <div style="display: flex; gap: 10px; align-items: center;">
+    <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img alt="TypeScript" height="30" width="40"                                                                                            
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">                                    
+    <img alt="JavaScript" height="30" width="40"                                                                                            
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">                                    
     <img alt="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-    <img alt="HTML5" height="30" width="40"                                                                                               
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">                                         
-    <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-    <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">     
-    <img alt="Linux" height="30" width="40"                                                                                               
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">                                         
-  </div>                                                                                                                                  
+    <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+    <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
+    <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">       
+    <img alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
+  </div>                                                                        
                                                                                                                                           
   <br clear="right"/>                                       
 
