@@ -7,12 +7,9 @@
   I build scalable web applications with a focus on modern frontend architecture and clean, maintainable code. Currently crafting products
    at the intersection of great UX and solid engineering.
                                                                                                                                           
-  [![Resume](https://img.shields.io/badge/Resume-View%20CV-4A90D9?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://resume.
-  io/r/eDzw9cf7O)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.co
-  m/in/eduardo-bilato-19268588/)                                                                                                          
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagra
-  m.com/eduardobilato/)                                                                                                                   
+  [![Resume](https://img.shields.io/badge/Resume-View%20CV-4A90D9?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://resume.io/r/eDzw9cf7O)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/induardo-bilato/)                                                                                                          
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardobilato/)                                                                                                                   
   [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardobilato@gmail.com)
                                                                                                                                           
   </div>                                                    
